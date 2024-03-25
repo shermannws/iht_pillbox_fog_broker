@@ -3,9 +3,9 @@
 Done by: Sherman Ng Wei Sheng
 
 ## Requirements
-<u>Tested on the following hardware</u>
-Device: Windows 10, 64 bit
-Docker Version: 4.12.0
+<u>Tested on the following hardware / software</u>: <br/>
+Device: Windows 10, 64 bit<br/>
+Docker Version: 4.12.0<br/>
 
 ## Directory Description
 1. `docker-compose.yml`: The docker compose file to start the MQTT Broker
